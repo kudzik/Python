@@ -1,0 +1,11 @@
+# Zależności dla aplikacji News from API to Email
+
+# Obsługa zmiennych środowiskowych
+python-dotenv==1.0.0
+
+# Klient NewsAPI
+newsapi-python==0.2.7
+
+# Obsługa email (wbudowane w Python 3.7+)
+# smtplib - wbudowane
+# email - wbudowane
